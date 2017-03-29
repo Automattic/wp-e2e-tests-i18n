@@ -1,5 +1,6 @@
 {
-	"ar": {
+	"ar-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Arabic",
 		"location": "Cairo, Cairo Governorate, Egypt",
@@ -7,7 +8,8 @@
 		"wpcom_landing_page_string": "دخول",
 		"wpcom_base_url": "https://ar.wordpress.com"
 	},
-	"de": {
+	"de-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "€",
 		"language": "German",
 		"location": "Berlin, Berlin, Germany",
@@ -15,7 +17,17 @@
 		"wpcom_landing_page_string": "Anmelden",
 		"wpcom_base_url": "https://de.wordpress.com"
 	},
-	"es": {
+	"en-wordpress": {
+		"search_keyword": "wordpress",
+		"currency_symbol": "$",
+		"language": "English",
+		"location": "New York",
+		"nux_landing_page_string": "Step",
+		"wpcom_landing_page_string": "Get Started",
+		"wpcom_base_url": "https://wordpress.com"
+	},
+	"es-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "€",
 		"language": "Spanish",
 		"location": "Madrid, Community of Madrid, Spain",
@@ -23,7 +35,8 @@
 		"wpcom_landing_page_string": "Acceder",
 		"wpcom_base_url": "https://es.wordpress.com"
 	},
-	"fr": {
+	"fr-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "€",
 		"language": "French",
 		"location": "Paris, Ile-de-France, France",
@@ -31,7 +44,8 @@
 		"wpcom_landing_page_string": "Se connector",
 		"wpcom_base_url": "https://fr.wordpress.com"
 	},
-	"he": {
+	"he-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Hebrew",
 		"location": "Jerusalem, Jerusalem District, Israel",
@@ -39,7 +53,8 @@
 		"wpcom_landing_page_string": "התחבר",
 		"wpcom_base_url": "https://he.wordpress.com"
 	},
-	"it": {
+	"it-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "€",
 		"language": "Italian",
 		"location": "Rome, Lazio, Italy",
@@ -47,7 +62,8 @@
 		"wpcom_landing_page_string": "Login",
 		"wpcom_base_url": "https://it.wordpress.com"
 	},
-	"ja": {
+	"ja-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "¥",
 		"language": "Japanese",
 		"location": "Tokyo, Tokyo, Japan",
@@ -55,7 +71,8 @@
 		"wpcom_landing_page_string": "ログイン",
 		"wpcom_base_url": "https://ja.wordpress.com"
 	},
-	"ko": {
+	"ko-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Korean",
 		"location": "Seoul, Seoul, South Korea",
@@ -63,7 +80,8 @@
 		"wpcom_landing_page_string": "로그인",
 		"wpcom_base_url": "https://ko.wordpress.com"
 	},
-	"nl": {
+	"nl-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "€",
 		"language": "Dutch",
 		"location": "Amsterdam, North Holland, Netherlands",
@@ -71,7 +89,8 @@
 		"wpcom_landing_page_string": "Inloggen",
 		"wpcom_base_url": "https://nl.wordpress.com"
 	},
-	"pt-br": {
+	"pt-br-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Brazilian Portuguese",
 		"location": "Rio de Janeiro, State of Rio de Janeiro, Brazil",
@@ -79,7 +98,8 @@
 		"wpcom_landing_page_string": "Fazer login",
 		"wpcom_base_url": "https://br.wordpress.com"
 	},
-	"ru": {
+	"ru-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Russian",
 		"location": "Moscow, Moscow, Russia",
@@ -87,7 +107,8 @@
 		"wpcom_landing_page_string": "Войти",
 		"wpcom_base_url": "https://ru.wordpress.com"
 	},
-	"sv": {
+	"sv-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "€",
 		"language": "Swedish",
 		"location": "Stockholm, Stockholm County, Sweden",
@@ -95,7 +116,8 @@
 		"wpcom_landing_page_string": "Logga in",
 		"wpcom_base_url": "https://sv.wordpress.com"
 	},
-	"tr": {
+	"tr-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Turkish",
 		"location": "Istanbul, Istanbul, Turkey",
@@ -103,7 +125,8 @@
 		"wpcom_landing_page_string": "Giriş",
 		"wpcom_base_url": "https://tr.wordpress.com"
 	},
-	"zh-cn": {
+	"zh-cn-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Chinese (Simplified)",
 		"location": "Beijing, Beijing, China",
@@ -111,7 +134,8 @@
 		"wpcom_landing_page_string": "登录",
 		"wpcom_base_url": "https://zh-cn.wordpress.com"
 	},
-	"zh-tw": {
+	"zh-tw-wordpress": {
+		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "Chinese (Traditional)",
 		"location": "Taipei City, Taiwan",

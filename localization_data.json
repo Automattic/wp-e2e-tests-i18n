@@ -21,9 +21,9 @@
 		"search_keyword": "wordpress",
 		"currency_symbol": "$",
 		"language": "English",
-		"location": "New York",
+		"location": "Brooklyn, New York, United States",
 		"nux_landing_page_string": "Step",
-		"wpcom_landing_page_string": "Get Started",
+		"wpcom_landing_page_string": "Login",
 		"wpcom_base_url": "https://wordpress.com"
 	},
 	"es-wordpress": {
@@ -52,6 +52,15 @@
 		"nux_landing_page_string": "שלב",
 		"wpcom_landing_page_string": "התחבר",
 		"wpcom_base_url": "https://he.wordpress.com"
+	},
+	"id-wordpress": {
+		"search_keyword": "wordpress",
+		"currency_symbol": "$",
+		"language": "Indonesian",
+		"location": "Jakarta, Special Capital Region of Jakarta, Indonesia",
+		"nux_landing_page_string": "Langkah",
+		"wpcom_landing_page_string": "Log Masuk",
+		"wpcom_base_url": "https://id.wordpress.com"
 	},
 	"it-wordpress": {
 		"search_keyword": "wordpress",

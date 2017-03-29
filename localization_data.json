@@ -137,7 +137,7 @@
 	"zh-cn-wordpress": {
 		"search_keyword": "wordpress",
 		"currency_symbol": "$",
-		"language": "Chinese (Simplified)",
+		"language": "Chinese (simplified)",
 		"location": "Beijing, Beijing, China",
 		"nux_landing_page_string": "步",
 		"wpcom_landing_page_string": "登录",
@@ -146,7 +146,7 @@
 	"zh-tw-wordpress": {
 		"search_keyword": "wordpress",
 		"currency_symbol": "$",
-		"language": "Chinese (Traditional)",
+		"language": "Chinese (traditional)",
 		"location": "Taipei City, Taiwan",
 		"nux_landing_page_string": "步",
 		"wpcom_landing_page_string": "登入",

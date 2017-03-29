@@ -1,0 +1,122 @@
+{
+	"ar": {
+		"currency_symbol": "$",
+		"language": "Arabic",
+		"location": "Cairo, Cairo Governorate, Egypt",
+		"nux_landing_page_string": "خطوة",
+		"wpcom_landing_page_string": "دخول",
+		"wpcom_base_url": "https://ar.wordpress.com"
+	},
+	"de": {
+		"currency_symbol": "€",
+		"language": "German",
+		"location": "Berlin, Berlin, Germany",
+		"nux_landing_page_string": "Schritt",
+		"wpcom_landing_page_string": "Anmelden",
+		"wpcom_base_url": "https://de.wordpress.com"
+	},
+	"es": {
+		"currency_symbol": "€",
+		"language": "Spanish",
+		"location": "Madrid, Community of Madrid, Spain",
+		"nux_landing_page_string": "Paso",
+		"wpcom_landing_page_string": "Acceder",
+		"wpcom_base_url": "https://es.wordpress.com"
+	},
+	"fr": {
+		"currency_symbol": "€",
+		"language": "French",
+		"location": "Paris, Ile-de-France, France",
+		"nux_landing_page_string": "Étape",
+		"wpcom_landing_page_string": "Se connector",
+		"wpcom_base_url": "https://fr.wordpress.com"
+	},
+	"he": {
+		"currency_symbol": "$",
+		"language": "Hebrew",
+		"location": "Jerusalem, Jerusalem District, Israel",
+		"nux_landing_page_string": "שלב",
+		"wpcom_landing_page_string": "התחבר",
+		"wpcom_base_url": "https://he.wordpress.com"
+	},
+	"it": {
+		"currency_symbol": "€",
+		"language": "Italian",
+		"location": "Rome, Lazio, Italy",
+		"nux_landing_page_string": "Passaggio",
+		"wpcom_landing_page_string": "Login",
+		"wpcom_base_url": "https://it.wordpress.com"
+	},
+	"ja": {
+		"currency_symbol": "¥",
+		"language": "Japanese",
+		"location": "Tokyo, Tokyo, Japan",
+		"nux_landing_page_string": "ステップ",
+		"wpcom_landing_page_string": "ログイン",
+		"wpcom_base_url": "https://ja.wordpress.com"
+	},
+	"ko": {
+		"currency_symbol": "$",
+		"language": "Korean",
+		"location": "Seoul, Seoul, South Korea",
+		"nux_landing_page_string": "단계",
+		"wpcom_landing_page_string": "로그인",
+		"wpcom_base_url": "https://ko.wordpress.com"
+	},
+	"nl": {
+		"currency_symbol": "€",
+		"language": "Dutch",
+		"location": "Amsterdam, North Holland, Netherlands",
+		"nux_landing_page_string": "Stap",
+		"wpcom_landing_page_string": "Inloggen",
+		"wpcom_base_url": "https://nl.wordpress.com"
+	},
+	"pt-br": {
+		"currency_symbol": "$",
+		"language": "Brazilian Portuguese",
+		"location": "Rio de Janeiro, State of Rio de Janeiro, Brazil",
+		"nux_landing_page_string": "Etapa",
+		"wpcom_landing_page_string": "Fazer login",
+		"wpcom_base_url": "https://br.wordpress.com"
+	},
+	"ru": {
+		"currency_symbol": "$",
+		"language": "Russian",
+		"location": "Moscow, Moscow, Russia",
+		"nux_landing_page_string": "Шаг",
+		"wpcom_landing_page_string": "Войти",
+		"wpcom_base_url": "https://ru.wordpress.com"
+	},
+	"sv": {
+		"currency_symbol": "€",
+		"language": "Swedish",
+		"location": "Stockholm, Stockholm County, Sweden",
+		"nux_landing_page_string": "Steg",
+		"wpcom_landing_page_string": "Logga in",
+		"wpcom_base_url": "https://sv.wordpress.com"
+	},
+	"tr": {
+		"currency_symbol": "$",
+		"language": "Turkish",
+		"location": "Istanbul, Istanbul, Turkey",
+		"nux_landing_page_string": "başlayalım",
+		"wpcom_landing_page_string": "Giriş",
+		"wpcom_base_url": "https://tr.wordpress.com"
+	},
+	"zh-cn": {
+		"currency_symbol": "$",
+		"language": "Chinese (Simplified)",
+		"location": "Beijing, Beijing, China",
+		"nux_landing_page_string": "步",
+		"wpcom_landing_page_string": "登录",
+		"wpcom_base_url": "https://zh-cn.wordpress.com"
+	},
+	"zh-tw": {
+		"currency_symbol": "$",
+		"language": "Chinese (Traditional)",
+		"location": "Taipei City, Taiwan",
+		"nux_landing_page_string": "步",
+		"wpcom_landing_page_string": "登入",
+		"wpcom_base_url": "https://zh-tw.wordpress.com"
+	}
+}

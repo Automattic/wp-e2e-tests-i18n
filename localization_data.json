@@ -1,6 +1,6 @@
 {
 	"ar": {
-		"language": "Arabic",
+		"language": "العربية",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "خطوة",
 		"wpcom_landing_page_string": "دخول",
@@ -9,14 +9,15 @@
 		"google_searches": [
 			{
 				"query": "wordpress",
-				"originating_location": "Cairo, Cairo Governorate, Egypt"
+				"originating_location": "القاهرة, محافظة القاهرة, مصر",
+				"originating_location_english": "Cairo, Cairo Governorate, Egypt"
 			}
 		]
 	},
 
 
 	"de": {
-		"language": "German",
+		"language": "Deutsch",
 		"currency_symbol": "€",
 		"nux_landing_page_string": "Schritt",
 		"wpcom_landing_page_string": "Anmelden",
@@ -48,7 +49,7 @@
 
 
 	"es": {
-		"language": "Spanish",
+		"language": "español",
 		"currency_symbol": "€",
 		"nux_landing_page_string": "Paso",
 		"wpcom_landing_page_string": "Acceder",
@@ -64,7 +65,7 @@
 
 
 	"fr": {
-		"language": "French",
+		"language": "Français",
 		"currency_symbol": "€",
 		"nux_landing_page_string": "Étape",
 		"wpcom_landing_page_string": "Se connector",
@@ -78,9 +79,8 @@
 		]
 	},
 
-
 	"he": {
-		"language": "Hebrew",
+		"language": "עברית",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "שלב",
 		"wpcom_landing_page_string": "התחבר",
@@ -89,14 +89,15 @@
 		"google_searches": [
 			{
 				"query": "wordpress",
-				"originating_location": "Jerusalem, Jerusalem District, Israel"
+				"originating_location": "ירושלים, מחוז ירושלים, ישראל",
+				"originating_location_english": "Jerusalem, Jerusalem District, Israel"
 			}
 		]
 	},
 
 
 	"id": {
-		"language": "Indonesian",
+		"language": "Bahasa",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "Langkah",
 		"wpcom_landing_page_string": "Log Masuk",
@@ -112,7 +113,7 @@
 
 
 	"it": {
-		"language": "Italian",
+		"language": "Italiano",
 		"currency_symbol": "€",
 		"nux_landing_page_string": "Passaggio",
 		"wpcom_landing_page_string": "Login",
@@ -128,7 +129,7 @@
 
 
 	"ja": {
-		"language": "Japanese",
+		"language": "日本語",
 		"currency_symbol": "¥",
 		"nux_landing_page_string": "ステップ",
 		"wpcom_landing_page_string": "ログイン",
@@ -144,7 +145,7 @@
 
 
 	"ko": {
-		"language": "Korean",
+		"language": "한국어",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "단계",
 		"wpcom_landing_page_string": "로그인",
@@ -160,7 +161,7 @@
 
 
 	"nl": {
-		"language": "Dutch",
+		"language": "Nederlands",
 		"currency_symbol": "€",
 		"nux_landing_page_string": "Stap",
 		"wpcom_landing_page_string": "Inloggen",
@@ -176,7 +177,7 @@
 
 
 	"pt-br": {
-		"language": "Brazilian Portuguese",
+		"language": "Português",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "Etapa",
 		"wpcom_landing_page_string": "Fazer login",
@@ -185,14 +186,14 @@
 		"google_searches": [
 			{
 				"query": "wordpress",
-				"originating_location": "Rio de Janeiro, State of Rio de Janeiro, Brazil"
+				"originating_location": "Rio de Janeiro, Rio de Janeiro, Brasil"
 			}
 		]
 	},
 
 
 	"ru": {
-		"language": "Russian",
+		"language": "Русский",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "Шаг",
 		"wpcom_landing_page_string": "Войти",
@@ -208,7 +209,7 @@
 
 
 	"sv": {
-		"language": "Swedish",
+		"language": "svenska",
 		"currency_symbol": "€",
 		"nux_landing_page_string": "Steg",
 		"wpcom_landing_page_string": "Logga in",
@@ -217,14 +218,14 @@
 		"google_searches": [
 			{
 				"query": "wordpress",
-				"originating_location": "Stockholm, Stockholm County, Sweden"
+				"originating_location": "Stockholm, Stockholms län, Sverige"
 			}
 		]
 	},
 
 
 	"tr": {
-		"language": "Turkish",
+		"language": "Türkçe",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "başlayalım",
 		"wpcom_landing_page_string": "Giriş",
@@ -240,7 +241,7 @@
 
 
 	"zh-cn": {
-		"language": "Chinese (simplified)",
+		"language": "中文 (簡體)",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "步",
 		"wpcom_landing_page_string": "登录",
@@ -256,7 +257,7 @@
 
 
 	"zh-tw": {
-		"language": "Chinese (traditional)",
+		"language": "中文 (繁體)",
 		"currency_symbol": "$",
 		"nux_landing_page_string": "步",
 		"wpcom_landing_page_string": "登入",
@@ -265,7 +266,9 @@
 		"google_searches": [
 			{
 				"query": "wordpress",
-				"originating_location": "Taipei City, Taiwan"
+
+				"originating_location": "台北市, 台灣",
+				"originating_location_english": "Taipei City, Taiwan"
 			}
 		]
 	}

@@ -22,4 +22,4 @@ dependencies:
 
 test:
   override:
-    - cd wp-e2e-tests
+    - cd wp-e2e-tests && ./run.sh -i -I $RUN_ARGS

@@ -4,4 +4,4 @@ A wrapper repo to split off execution of the Jetpack e2e tests running in Calyps
 
 # Current Build Status
 
-[![CircleCI](https://circleci.com/gh/Automattic/wp-e2e-tests-jetpack/tree/master.svg?style=svg)](https://circleci.com/gh/Automattic/wp-e2e-tests-jetpack/tree/master)
+[![CircleCI](https://circleci.com/gh/Automattic/wp-e2e-tests-i18n/tree/master.svg?style=svg)](https://circleci.com/gh/Automattic/wp-e2e-tests-i18n/tree/master)

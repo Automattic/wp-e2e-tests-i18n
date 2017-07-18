@@ -5,7 +5,7 @@ machine:
 general:
   artifacts:
     - "wp-e2e-tests/screenshots"
-    - "wp-e2e-tests/logs"
+    - "wp-e2e-tests/reports"
 
 checkout:
   post:

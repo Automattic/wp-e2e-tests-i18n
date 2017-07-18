@@ -1,4 +1,4 @@
 [submodule "wp-e2e-tests"]
 	path = wp-e2e-tests
 	url = https://github.com/Automattic/wp-e2e-tests
-	branch = team-global-l10n-test
+	branch = master

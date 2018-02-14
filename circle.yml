@@ -1,4 +1,7 @@
 machine:
+  environment:
+    NODE_ENV: test
+    TARGET: I18N
   node:
     version: 6.11.1
 
@@ -21,4 +24,4 @@ dependencies:
 
 test:
   override:
-    - cd wp-e2e-tests && git checkout origin/${E2E_BRANCH-master} && ./run.sh ${RUN_ARGS--I}
+    - cd wp-e2e-tests && git checkout origin/${E2E_BRANCH-master} && npm run decryptconfig && NODE_CONFIG={} ./run.sh ${RUN_ARGS--I}

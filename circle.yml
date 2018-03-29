@@ -14,7 +14,7 @@ checkout:
   post:
     - git submodule init
     - git submodule update --remote --force
-    - sudo apt-get install -y fonts-ipafont-gothic xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
+    - sudo apt-get install -y fonts-ipafont-gothic xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic fonts-wqy-zenhei
 
 dependencies:
   cache_directories:

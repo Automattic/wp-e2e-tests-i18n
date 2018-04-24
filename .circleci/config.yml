@@ -1,0 +1,23 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/wp-e2e-tests
+    docker:
+      - image: 'circleci/node:8.11.0-browsers'
+        environment:
+          NODE_ENV: test
+          TARGET: I18N
+    steps:
+      - checkout
+      - sudo apt-get install -y fonts-ipafont-gothic xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic fonts-wqy-zenhei
+      - run: git submodule init
+      - run: git submodule update --remote --force
+      - run: cd wp-e2e-tests && git checkout origin/${E2E_BRANCH-master}
+      - run: cd wp-e2e-tests && npm install
+      - run: cd wp-e2e-tests && npm run decryptconfig && ./run.sh ${RUN_ARGS--I}
+      - store_test_results:
+          path: wp-e2e-tests/reports/
+      - store_artifacts:
+          path: wp-e2e-tests/reports/
+      - store_artifacts:
+          path: wp-e2e-tests/screenshots/
